@@ -1,9 +1,5 @@
-# weatherapp
-
-A new Flutter project.
-
-## Getting Started
-
+In this project OpenWeatherMap AP is used to fetch weather and,its wokig is, first a intro page and their a get strat button to fo forword and next page is home page, their first show our, current location and weather, then the top of scaffold we have an a search bar to search other citys weather and if the enterd city, is not teching show a 400 api error, and images and , weather maybe perfect to weather, just add some images , 
+-----------------------------------------------------------
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
